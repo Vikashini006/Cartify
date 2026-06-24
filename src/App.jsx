@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import ProductList from "./ProductList";
 import Cart from "./Cart";
 import products from "./products";
-import SearchBar from "./components/Searchbar";
+import SearchBar from "./components/SearchBar";
 import CategoryFilter from "./CategoryFilter";
 import Footer from "./Footer";
 import OrderSuccess from "./OrderSuccess";
